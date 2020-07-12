@@ -6,3 +6,5 @@ Demo, Updates and Downloads: http://webnovant.com/es/blog/recursos/soonweb-plant
 
 Soonweb: Coming Soon Template by Webnovant is licensed under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
 http://creativecommons.org/licenses/by-sa/4.0/
+
+Cambio
